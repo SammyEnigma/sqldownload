@@ -1,2 +1,4 @@
 language: csharp
 solution: SQLDownload.sln
+notifications:
+    slack: hartcode:GqPCaLxnPqXfPJBMjJbEvG81
